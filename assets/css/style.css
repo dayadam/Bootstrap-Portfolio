@@ -1,9 +1,20 @@
 .header {
-    margin: 0px;
+    margin: 0px auto;
     padding: 0px;
-    border-bottom: 2px solid #cccccc;
     overflow: hidden;
     background: #ffffff;
+    width: 960px;
+}
+
+.container-header {
+    margin: 0;
+    padding: 0;
+    border-bottom: 2px solid #cccccc;
+}
+
+.navbar {
+    margin: 0;
+    padding: 0;
 }
 
 h1 {
@@ -17,12 +28,17 @@ h1 {
 }
 
 .container {
+    padding: 0;
+}
+
+.container-body {
     background: #ffffff;
-    margin: 0px;
+    margin: 0px auto;
     padding-top: 30px;
-    padding-left: 50px;
-    padding-right: 50px;
+    padding-left: 40px;
+    padding-right: 40px;
     overflow: hidden;
+    width: 960px;
 }
 
 .width {
