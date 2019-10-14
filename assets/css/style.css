@@ -79,6 +79,11 @@ img {
     padding-right: 30px;
 }
 
+.img-about {
+    padding: 0;
+    float: left;
+}
+
 body {
     margin: 0 auto;
     padding: 0px;
