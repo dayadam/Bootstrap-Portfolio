@@ -1,0 +1,92 @@
+.name-header{
+    font-size: 48px;
+}
+
+.list-nav {
+    font-size: 26px;
+}
+
+.color-nav {
+    background: burlywood;
+}
+
+body {
+    background: #582817;
+}
+
+.main {
+    background: #E4D9C3;
+    border-radius: 35px;
+    border: 10px solid #AA5042;
+}
+
+.navbar {
+    border-bottom: 10px solid #AA5042;
+}
+
+.main-text {
+    font-size: 24px;
+}
+
+.bottom-para {
+    padding: 5px;
+    padding-left: 10px;
+}
+
+.img-about {
+    display: block;
+    margin: 0 auto;
+}
+
+.about-heading {
+    font-size: 34px;
+    padding: 5px;
+    padding-left: 10px;
+}
+
+.footer-about {
+    margin: 0 auto;
+    background: burlywood;
+    text-align: center;
+}
+
+footer {
+    border-top: 5px solid #AA5042;
+    background: burlywood;
+}
+
+.extra-space {
+    padding: 40px;
+}
+
+.port-pad {
+    padding-top: 30px;
+}
+
+/* .img-port {
+    position: relative; 
+} */
+
+.port-img-label {
+    position: absolute;
+    /* top: 175px; */
+    /* left: 50px; */
+    bottom: 40px;
+    text-align: center;
+    background: burlywood;
+    font-weight: normal;
+    width: 300px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    opacity: .8;
+}
+
+.img-bot {
+
+
+}
+
+.boxy {
+    position: relative;
+    width: 300px;
+}
