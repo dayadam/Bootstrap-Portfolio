@@ -94,3 +94,12 @@ footer {
     width: 100%;
     margin:0 auto;
 }
+
+.message {
+    height: 200px;
+}
+
+.input {
+    width: 99.5%;
+    float: left;
+}
